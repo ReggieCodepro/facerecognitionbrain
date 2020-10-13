@@ -24,7 +24,7 @@ class App extends Component {
   render(){
     return (
       <div className="App"> 
-      return (
+      
             <Particles className='particles'
               params={particlesOptions}
             />
