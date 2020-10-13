@@ -9,9 +9,10 @@ class App extends Component {
       <div className="App"> 
       <Navigation />
       <Logo />
+      <ImageLinkForm />
 
       {/*
-      <ImageLinkForm />
+      
       <FaceRecognition />*/}
       </div>
     )
